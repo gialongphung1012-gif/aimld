@@ -20,14 +20,14 @@ jobs:
 
       - name: Build
         run: |
-          xcodebuild -project ios/AIMLD.xcodeproj -scheme AIMLD -configuration Release \
-            -sdk iphoneos -derivedDataPath build \
+          xcodebuild -project ios/AIMLD.xcodeproj -target AIMLD -configuration Release \
+            -sdk iphoneos SYMROOT="$PWD/build" \
             CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" build
 
       - name: Package IPA
         run: |
           mkdir -p Payload
-          cp -R build/Build/Products/Release-iphoneos/*.app Payload/
+          cp -R build/Release-iphoneos/AIMLD.app Payload/
           zip -qr AIMLD.ipa Payload
 
       - uses: actions/upload-artifact@v4
