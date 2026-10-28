@@ -1,0 +1,36 @@
+name: Build AIMLD IPA (unsigned)
+
+on:
+  workflow_dispatch:
+    inputs:
+      api_url:
+        description: "Domain HTTPS của web admin, vd https://keys.example.com"
+        required: true
+
+jobs:
+  build:
+    runs-on: macos-14
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set API URL
+        run: |
+          sed -i '' "s#https://YOUR-DOMAIN.example#${{ github.event.inputs.api_url }}#" ios/AIMLD/AIMLD/LicenseViewModel.swift
+          grep -n "URL(string" ios/AIMLD/AIMLD/LicenseViewModel.swift
+
+      - name: Build
+        run: |
+          xcodebuild -project ios/AIMLD.xcodeproj -scheme AIMLD -configuration Release \
+            -sdk iphoneos -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" build
+
+      - name: Package IPA
+        run: |
+          mkdir -p Payload
+          cp -R build/Build/Products/Release-iphoneos/*.app Payload/
+          zip -qr AIMLD.ipa Payload
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: AIMLD-ipa
+          path: AIMLD.ipa

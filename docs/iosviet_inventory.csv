@@ -1,0 +1,153 @@
+path,uncompressed_bytes,sha256,category
+dylib-main/.github/workflows/Build.yml,1263,d026bfad1f13acb2d18e84bc3f6ef446eafc2111c285ed17976c2cda6e122e65,CI automation
+dylib-main/.github/workflows/unzip.yml,927,b52308cb58b975666c943d9a83e57553a4e5fff289ea426cb636a2c320260010,CI automation
+dylib-main/APIClient.h,1582,125ce8d1ec52799cc98842360f81607e9920fcd25d6965f1fb8f7fb13d6e0c7e,other project source/resource
+dylib-main/intex dylib/API/hi,5,4445e94ec7e2416e646fd02ab15105a241bc7e6dd626857aeb65f99c571ea92d,other project source/resource
+dylib-main/intex dylib/Font/GFF-Latin-Bold.ttf,71832,607dcd5737837e2c2f35c343d7b2298d70dc0ee19dc3e425cf191048b9340d6f,other project source/resource
+dylib-main/intex dylib/Font/Headliner No. 45 400.ttf,526824,3b183ecf4d15326c564a74503ce295fca3f67bf2e4cf18c727440f3b3cce6741,other project source/resource
+dylib-main/intex dylib/Font/Headliner.ttf,526824,3b183ecf4d15326c564a74503ce295fca3f67bf2e4cf18c727440f3b3cce6741,other project source/resource
+dylib-main/intex dylib/KabraxHide.h,26447,d1b63be44264968b9bf6b5d28c038536c3f75409f2415ea47506c826734c2ccc,other project source/resource
+dylib-main/intex dylib/README.md,1205,a4a607d601c98fdb62dd0cad11b0a68944ac38d60f29eb92c1bc45e7bfd2fa0e,build/package metadata
+dylib-main/intex dylib/XorString.h,1540,2ace876512f590ee70e982d151d580d48fbbd36dbc9dfc2722917ceda3ca2df5,other project source/resource
+dylib-main/intex dylib/control,224,d18709f8b48f401dfb83f6e19688780350be19490738317f28376a21e15cf5e4,build/package metadata
+dylib-main/intex dylib/esp/Core/AimModePolicy.h,1048,96ea3ba7afb2fe2999f50027c2e168a933db3209e7ba3b78154426cdd45a6d76,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AimPoint.h,806,3adba9774aee0a4b40b48e5c87fe5766c3b4db624954345222aaf11afed816b0,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AimSelection.h,2509,20e44e845f3cd689b425f97963cf77c3dee8ff28a4d870c0c06be31842e183aa,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AsyncOffsetState.h,596,db6e79f06892b2f55467c1121410786c7ffd10d691b4323073c7541cd3e1b718,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AutoFire.h,521,6e24e16fbb58911c6f7d2af58fe4e4b7d570aec37a2181791e06838a8a11446c,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AutoFire.mm,17832,c975bd6ef830d19fe3673400158fc375f98b51aab0256f4ecf8def28ccf1813d,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AutoFireRemote.S,13484,1ec627174b0c3a7a1552fdcb6f3aeefaef577189cde5b118b1c39c56c5982a2d,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AutoFireRemoteLayout.h,4760,88bbada293b30e67b2349766a88c620bdd4643525e587835d7fe842e1f210b7b,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/AvatarVisibility.h,888,eb4343c75c42824879fbbb697529f93a65975cd46b4d051c3c1f54b2cfb0b27f,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GameLogic.h,1869,22b6adac53750e38d03e62b1dd2a4b702806c9338f978b520708f3144b4a140f,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GameOffsets.h,1077,d666c72e5479b007bd976acea74e4f83e51e770637e306c736dcc7a9a4be0880,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GamePRI.h,1232,fceb329b6b9897c665f4d83ca1f233ec06d80e6b9a3ea42418d09f55cacdb1e6,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GameProfileFields.h,3793,697f264fa06b06e7eddd1470a807daeca078a75ef2e1cd7e5b4120b4649c9e95,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GameProfileMethods.h,7369,c0e0bb83c80f968e41ec271645eaa815f36bade17e3ad7e985045461cbaf6527,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GhostMode.h,431,5b27031399488f5465efacbe8ddc3f7c8057096f789e8ae7c56503cad5612440,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GhostMode.mm,14551,a9e22d7f166505fa9001a90488d703bb003f6ba7079d0697854e34a7eb2833d5,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GhostRemote.S,11624,de955157e7e5d11f292aee23876985f4d26dd8d275805afb3c0c11403adf0f0a,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/GhostRemoteLayout.h,4118,c601bfe9da58e2da8813d240db3b8d464bc45deae04da7c80fb6932cdf35881a,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/MaxNativeVerified.h,5320,28c9d342aa2a3900c8faa646b4c2ccd31353e858fd797f26a890fc0b6ce511d8,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/OverlayHealth.h,1715,5c04f9d9de553818a8345b7eddfb8deee796de5d58851b57f6b142f5abf3e3a5,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerModes.h,617,f6a46650dad4a5a62a23af6a8e2e296723391d667b1a67eaafc588d51a118541,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerModes.mm,24903,20190d420e5cf7d4d4de18556c264472b2a4d33dabfcbc1ad0acee5c58846d78,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerModesControlPolicy.h,1163,8505dac5fe260c5ae08b4e7497495f43064ab328bf5b9f8b5e39fb8a4189ebc4,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerModesControllerPolicy.h,1237,0994e424580a33f51cd87d6143cd906c491b7151dd6e8b4d0fd4b9dd16b4c166,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerModesInstallPolicy.h,1449,7f229721745cf03ffc6bb1ea0a60eee736ae22068ff83613d6d5cb535649ecda,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerModesLayout.h,6023,82e442168e41673d1e662957d52cba1e786e1c577727c7708f10b73e3c228ccc,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerModesRemote.S,16645,3fb8a85627e2c8c69c790775c2b53148c9da353edc7eeae0f5e87827e2c27e70,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/PlayerVisualPose.S.inc,8900,ac179641afd14bb6c7a4613c2ed0a79b5f805643bd9f2f226b4b4b872374d3f9,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/Quaternion.h,24127,777425b887982e0ad329f3116dd3986b6834e450a3e72d21dae7359c6bbd3ebc,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/RunSpeed.h,1873,5b0b07dff5158186a8ccf7b6abde343c73a217205aea326590b4a41102055205,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAim.h,731,d720c1351f9599e2b413265587496147e8b32f3bf97994a9c70f34191601e13f,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAim.mm,8879,29ab23893209d382a03cd305fa004820385d3d23856718eee1d420163cca7348,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimDirection.h,2299,37dd9f9e06d108caf5caf3d064d9c427b5685c73a48b1d921749ce06ccfd2255,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimExternal.mm,12960,6ae2c2cd300628387e6499cb6142bdf1752395114af5f42273a61af796678474,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimPolicy.h,1317,1b69a817708e3104d1065bc657676c943cfd34067cebb610420aa870b36b2f44,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimRemote.S,7193,5f98ad586cce9d4821fb74135bb719b31ce9e9076ac6f45683d39b8f995d9859,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimRemoteLayout.h,2430,650b7f9631a416044e039e1c7b83facbb93103f1fbdb20a739ce495675318685,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimRemoteMapping.h,5043,dcfaca053940cbfbd06c2a1d1ee32fd2c1a6d607fe34b2a7ae08e4c3fd6038a0,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimSelection.h,1487,0fa7edb5a332d62523aa8ff3a2de7298df07d1e2efd28e17a8d9661a80d8972b,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SilentAimWeapon.h,826,37babd80c234e9c7a9e721f2fe975d4b63990ea69d8f0645dbe5c79f2b3649d8,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/SwapInventory.h,1030,96fe7adabe5273ac30b1501d7ea100a3f0fe6a336b4d6811d1bd52251f849532,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/TransformTraversal.h,928,d77e49cfd18d997ac2a8f861428e98acadeedf9c75293a2223b7199d29ad4fe5,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/UnityMath.h,863,f8b3c5864157fa3a35d20623d1ad80705a5b053268ed02942224fff47953d260,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/Vector3.h,12049,616bd7082004351d3917c749eb36c0a016a8538e64416521e06d3ffba2a4308c,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/VisualSpinPolicy.h,700,5d13bcae71eec0fd72511ca9aec2ac2f0f2cded5b9f54b241b75331e6e6614b7,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/WeaponFeatures.h,8970,ec4443a71af72c28477c20bc557c1544380ab133c20ca8ccbc8ac5d962a9e28e,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/_0xGL2972_.mm,12529,645bd1b4a36d3d873e6793b28991c63a98d854ef9e6b2df75e4de9f92382b5af,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/_0xPDFFFF27.mm,10591,391c24df24bf22acc63058077a9e3cb927ef3a9a4b3bb8bd65b2f3f546aa7527,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/_0xUNT2872_.mm,7318,e5ee7a7f881ac08c00672350b388560ead3df71fb37188e49c1f6d07a50d52a5,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/kern_control.h,30708,3ef44548a76a3918ac90d7af5427b3a4a1ffb70263e290a74a17f6113543de72,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/libproc.h,8059,0e2f7f9fde27465547f71dd9bde17e702a66e304134cc8c86a857c8a4b6f9523,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/pid.h,4628,d39938ab6ecdeb115b34807ed2c2dd51d42cb977d5d2f2d2b153b75ef25cee5d,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/proc_info.h,39089,6c24f11156eddd0a0be948fc88c9efb4134514683725b0f1b305933241386be0,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/Core/utf.h,5269,f0bb9f773f98e8f0558bac7bb90f23606e481756bad6ae23794d6866eb564263,game logic / memory-facing components (excluded)
+dylib-main/intex dylib/esp/drawing_view/ESPPrefs.h,570,0e0b48a8bec5aaf806a13ef62f4329a86c9c19d73b99c8b533c8f1b2f325ce87,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/ESPStyle.h,762,1239b2be0a7f941d3787594cdf43d36c9fb926b0b533eaf0056f8942fba90a89,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/FloatingFeatureControl.h,425,f98da3873a9d274c1521ed905d3f2fee386ee2c6ec40c1ea6b7f98e02fcdb06a,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/FloatingFeatureControl.mm,5767,b7c1dff291046f316885bfc6e2a7ad9d3a54b8ca152531be2d54348ea938f0d6,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/OverlayGeometry.h,1339,47a6498820bc4f59e1569190a964000955f13b68e1617dfc52fc539ca0133e33,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/WorldAxes.h,3586,b24e9969dfab0a35450672c7db9f33e869e3bfbf153c1166b7bd106e63a18c5f,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/_0xE298S9_.mm,42234,dd44682bc93a015ff03026147ac0e98a6c48d654e74fa1c19201fc4a3fce37be,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/_0xEDR2862_.mm,13840,06741ee609931b2e2f761e49747ac608cfddff888fd190773ef8f7c3c056c85d,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/_0xEPR2872_.mm,1312,7755e95de3cb68280ea3beaa30ca152271dce67ba79518aed71a75fe1ad01669,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/_0xIC2872_.mm,267054,a7829782846a5bdcf80ebb9550fdbae884d050faf3f58b742781f0dd50e2a405,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/_0xMU2872_.mm,17978,bed5244794cb2d598f509bb96473df7617e5f40ad3b2c56e3f743c51b727507b,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/esp.h,3197,13e881fc40ebcd6912b981a2c9251fe1be7eb4ef8cdf59e2fb5786ea6d6b4b6b,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/icons.h,131,50506b3448fa4def9295cac07d71a268c9e0c2bbbd3fc49a4763659099708142,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/menu.h,513,146fefa92c5a3c6fe212409e3b44559bc8351e013f7579acb081d2e6edcc88f1,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/esp/drawing_view/offset.h,3475,5d7932700176dc6c02d071a3bce32edcb35c93c1601ba41e4907523bb198491c,overlay/menu/drawing preferences (selective UI reference)
+dylib-main/intex dylib/headers/AXEventHandInfoRepresentation.h,219,d6161cb0c68ddd71d98358c7a527de5ded8535e1121baa9a4e72ac255569ce82,other project source/resource
+dylib-main/intex dylib/headers/AXEventPathInfoRepresentation.h,180,b5d5fe87bea7af7bac6158d5e00faab067ad566ad98807f7e711d0a022cd80d3,other project source/resource
+dylib-main/intex dylib/headers/AXEventRepresentation.h,702,e269714a188b6e504b3ee3c5df4109e44354c4b6d44be0acac8c63e29efea57b,other project source/resource
+dylib-main/intex dylib/headers/BackboardServices.h,593,8d1bacd3b47a9954d5c1a403316613e51395216a7da69aaf98c33b2aa641ce80,other project source/resource
+dylib-main/intex dylib/headers/FBSOrientationObserver.h,283,599fc8b5abb793c3648cabf07526647eeb040aac57d7320d0c15037232fe0810,other project source/resource
+dylib-main/intex dylib/headers/FBSOrientationUpdate.h,232,8b51ad6f102cca221d57b9b55ec1c7bf3162a9dbc4285d339758e120d028da0b,other project source/resource
+dylib-main/intex dylib/headers/IOKit+SPI.h,194,247dedfada92d452778174ee46855e632c8d0d0758698d0aebef0f02e0182bcb,other project source/resource
+dylib-main/intex dylib/headers/SBSAccessibilityWindowHostingController.h,205,4e82542f7f40e0e86157c21651fdb168506f14d8d5e9e22f642637fa837af2d7,other project source/resource
+dylib-main/intex dylib/headers/SpringBoardServices.h,973,decb5ef52b1c234df4b34182692955b02ba41330fea7f076a4a5832968f22662,other project source/resource
+dylib-main/intex dylib/headers/UIApplication+Private.h,365,dd3bb941097c7c4ff9e19eb3b179d21166ef3387327ef9f044a8ab6c7994963b,other project source/resource
+dylib-main/intex dylib/headers/UIEvent+Private.h,184,b7ebae26a016a7c016e0fcb53b482eda1cd04cecace02c2428529fedf8d3ef6d,other project source/resource
+dylib-main/intex dylib/headers/UIEventDispatcher.h,156,2bbefe18bf9aff5072e2e22f99fc767695b68fe215c06673958674fae44e9592,other project source/resource
+dylib-main/intex dylib/headers/UIEventFetcher.h,251,b92a606c444382d98a18d2ad9eabddfaed173d2d1063f31a4d30b4226d2d7f78,other project source/resource
+dylib-main/intex dylib/headers/UITouch+Private.h,577,4224f2276233c74800a0d9de81471489c38e73969daf252d79466602b879a0d5,other project source/resource
+dylib-main/intex dylib/headers/UIWindow+Private.h,118,217ab7541ddc7df6756fc183a880e114aa93c15b1030bb04738244ac0e83e6e7,other project source/resource
+dylib-main/intex dylib/headers/pac_helper.h,558,b919c5ddf5eb29937168db5279274848b6d3ebc5757a61985022fb66e35e6471,other project source/resource
+dylib-main/intex dylib/headers/rootless.h,1044,4afd0f0bfec16b8a02d0dfb17b11ab7ca48917e10fb6f1239b6bdadfbd2ceee3,other project source/resource
+dylib-main/intex dylib/iOSViet.plist,359,256b2d50788bc2175666b2a89599a0ae69811458bd20e2c626551f33e2265890,other project source/resource
+dylib-main/intex dylib/layout/Resources/Settings.bundle/en.lproj/Root.strings,214,e32d3a8f2cf8ce96b3bf7554f114c5698fb5f8132a91adbd5c8d0aedaee4ef02,localization and UI resources
+dylib-main/intex dylib/layout/Resources/Settings.bundle/es.lproj/Root.strings,214,e32d3a8f2cf8ce96b3bf7554f114c5698fb5f8132a91adbd5c8d0aedaee4ef02,localization and UI resources
+dylib-main/intex dylib/layout/Resources/Settings.bundle/zh_Hans.lproj/Root.strings,238,760541ea5b3f6832d4f2b1665bf0548cba6c05f050d0a00d0beda455132bce8d,localization and UI resources
+dylib-main/intex dylib/layout/Resources/en.lproj/InfoPlist.strings,70,e64507a2af1c8fa1b109cb589f66c47bdee8c594d1b71387073266eeeac2fac5,localization and UI resources
+dylib-main/intex dylib/layout/Resources/en.lproj/Localizable.strings,3956,09ae625ff581a116f8bff50ad96678037815c7df9cb08d33df000a71ef686613,localization and UI resources
+dylib-main/intex dylib/layout/Resources/es.lproj/InfoPlist.strings,70,e64507a2af1c8fa1b109cb589f66c47bdee8c594d1b71387073266eeeac2fac5,localization and UI resources
+dylib-main/intex dylib/layout/Resources/es.lproj/Localizable.strings,4100,a9261bf138262633267ea5e7c7318acb2cbf7525942e42f5eab976acdaa414d6,localization and UI resources
+dylib-main/intex dylib/layout/Resources/icon.png,77263,e81b732eea73a1d8ea8374894bc453cdca4dcaf1a1d9fd79a8a65d3b02d06d43,localization and UI resources
+dylib-main/intex dylib/layout/Resources/zh-Hans.lproj/InfoPlist.strings,82,90419f007e56f32812741632f4a0e34af9f9ae5e9dbd955ad4e9da62b8709a46,localization and UI resources
+dylib-main/intex dylib/layout/Resources/zh-Hans.lproj/Localizable.strings,4037,b32d85499072734a09fe65ad8b5488017f1a8c59d6082cbd87a6e7a30472fd07,localization and UI resources
+dylib-main/intex dylib/mahoa.h,15673,be514aa10b6dcfec034f667fd5a3dc6f6ad093da712b7f295b1ac55306769e37,obfuscation (excluded)
+dylib-main/intex dylib/makefile,2166,5fe2d5c0a1b86a0e98ac3e6406a54cbb60b6272eefc79fbca1563c2634e7787f,build/package metadata
+dylib-main/intex dylib/obfuscation/AntiREProtection.h,4264,cfac1a0e54ef05f5b8e59fb223f97570afacaf564e05915ff3c747d223a54774,obfuscation (excluded)
+dylib-main/intex dylib/obfuscation/CodeVirtualizer.h,12814,156d1a5237e0b2a9029c59d93a36b5663148e29245e15e8f8c153c44afa774f7,obfuscation (excluded)
+dylib-main/intex dylib/obfuscation/MoniteText.h,3762,cfdfecfc6a0000ea999d2fa068a38b1c7add9a3e119460f9842e28e18b5536b9,obfuscation (excluded)
+dylib-main/intex dylib/obfuscation/ObfuscationPlatform.h,2716,53fbee7dd482d0d577bcf0ada3ee06b58b242d60fd5a55faf431ea16f59fac8b,obfuscation (excluded)
+dylib-main/intex dylib/obfuscation/VDataStore.h,9575,eba735e54c8227537d0632a92464110899eb1a809244ddcc1d5c721155e9b999,obfuscation (excluded)
+dylib-main/intex dylib/obfuscation/VtizerEngine.h,9985,c66e1a0e0d35c60158e74c7ca992a26160e5f51e691d6a4fa941b2e8fdaf81cd,obfuscation (excluded)
+dylib-main/intex dylib/oxorany/oxorany.cpp,212,5378449279da23622d2d69e2632f36198755e41269f4a82e95cab4fa21988af5,obfuscation (excluded)
+dylib-main/intex dylib/oxorany/oxorany.h,26199,c6d469d01b1db6baf1c23f2cd2c2f6585b3e8cf7b9d2adb620e2f66a0ff0e317,obfuscation (excluded)
+dylib-main/intex dylib/oxorany/oxorany_include.h,600,91cf3ff487c3d895c9fccfd47caaa8fe440713be1071641c58f340e048256624,obfuscation (excluded)
+dylib-main/intex dylib/source-manifest.json,24276,2abbf69a4cfa0005c47482fb6466b28e3ee1b199b8d23f3e8eae3cb3f10ab98d,build/package metadata
+dylib-main/intex dylib/sources/APIClient.h,1582,125ce8d1ec52799cc98842360f81607e9920fcd25d6965f1fb8f7fb13d6e0c7e,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/AntiHook.h,324,493169dfc6a15461c1f4eaa248e137192f50c646162b86e87d9ef89f37fa2fca,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/FishHookChecker.h,465,a03a9576879f601f1fbe8a4fb24df9782a2a8cdc42c85266eebfd92a566fee38,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/HUDHelper.h,475,094f8858364f5511ab3cf5f293ca69ebdff7f365d6dc6a300f38204cea7b2e78,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/HUDMainApplication.h,107,d7020c811532ea9d62511338742b09c8d8987e10ac1f657a697026ec68ed614a,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/HUDMainApplicationDelegate.h,330,78b127f359197734eed8682011ca8825433c1c010ceeddd146b6f3c110365887,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/HUDMainWindow.h,268,e35641c9e3bb5d718805780bd24d8e6c869c2856b05307183865b16443304bd6,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/HomeViewController.h,161,ed39f2d1d82f3b56b894deac735456117449b8f17dc6f70e3f8f8392b9b04988,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/InfoViewController.h,110,41d9a593bbac8aebf31e829129e890a24ce42dc314fafb6b6cf0b945cf9ee6cd,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/InjectedMenuController.h,134,81a0198882b7496eefe1ba4f9469d7b27d1b08fe83cb80640e3d7cd66e01ca40,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/InjectedMenuController.mm,1183,35b7765fcbc3a12d310787b5adf0f6135eabad59796e17d4f7d05c2c0775304c,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/InjectedOverlayAttachment.h,1699,aa3327b78517452f50df3d711f86de581d5437a26f6983f264064a4dbd85e3e3,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/InjectedOverlayOwnership.h,1232,5865646eafdab42481bd275f6968226e504e7a516e50d5c25905ff251e1660e1,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/InjectedStartupPolicy.h,854,4de3ed687c5e32b88af21e188025785b1c9ee1aa57a2a473a965cea258bc8765,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/InjectedWindowSelection.h,1462,edfcfe2c6e39288b4adfbf64d79182c8caa7e7ecad317fc7f9a4611c0a88b29a,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/MSHookFunctionChecker.h,866,799a50de37987231cb7f7590fadd9ceee94320469c63a8685f181db7b464060d,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/MainApplication.h,104,3e0bf9d0d1601072e73630b0f4af3cba9bbc9e6c3c0b270f09623523fffaf295,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/MainApplicationDelegate.h,183,1d6d2a0acab6f0139f0339fd891f225b2b74c39761b6631dca45684bf3286f61,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/MizzeMenuPrefs.h,1058,e5e47c0d2a90871fd4be9f8bb6f9766fb4f182286eade3d8eade27a99b93423f,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/MizzeTheme.h,1139,e6470e1d08fab8d6230d4631478fed76761b323cf8b031a9a3444071929b0fb5,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/ModMenuViewController.h,310,873100c410b8170a8ad87ab3b55acb0494a64e34f1244d05576921168a44cbf6,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/ProxyChecker.h,492,9bdbacc75d93fb495d19639e57d8c5ae544801d39c05489570eb26a06996c9d4,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/StealthDylibInit.mm,4560,5c136278b49199c04e2ce0e76f85f51e59ed86173dabd1b104671446951b019f,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/TSEventFetcher.h,342,83fa8e55c2675270741e265d8c267f560243dd362a78eb631c06ac018a18e4dc,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/UIApplicationRotationFollowingWindow.h,615,886bac3bdb8e6a93966d3eef217986784daeea9aad617d747d75bb12f9a847e2,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/UIAutoRotatingWindow.h,650,c1c61ef69247526fb93c8d60bdd2a0772d64cf86e77039fedca6ad9dca69f02c,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/UIView+SecureView.h,248,c6c3aef19271cb3c79a984c94b5db27c8834a0f60d8c347a75661a9d74e66cc9,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/_0xC2863HD.h,88,3b7b5e398da071ca6ebfaddd6767ef4272db07856f61f3ad7cc101ee1f170101,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/_0xFAFAFFF.h,112,660f639bfd22ed4a1789a53dce9758f62b6d7e80976aeae8b19681cbb45be148,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/_0xMO353DA.mm,44986,5df6341287f789ebdda4e3bb8443adbe3d3105b4518f9349a7a9e829d3e295ab,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/_0xViSecureV28.m,1945,50b558fd2ec43e26a5cad36c49f8308b28c0fb0c37dd6cac8b615360ae5b31c7,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
+dylib-main/intex dylib/sources/libAPIClient.a,69371320,1006c9e30e96022718854a08d3b1376cb08975c337b423025d2dcb2752efb801,app lifecycle / overlay / API / protection (selective review; unsafe parts excluded)
